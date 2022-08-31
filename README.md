@@ -36,7 +36,7 @@
 <a href="https://br.linkedin.com/in/thassio-silva-56194620b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   
   
-  ![snake animation](https://github.com/Thxssio/Thxssio/blob/output/github-contribution-grid-snake.svg)
+  ![snake animation]([https://github.com/Thxssio/Thxssio/blob/output/github-contribution-grid-snake.svg](https://github.com/Thxssio/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg))
 </div>
 
 
