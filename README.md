@@ -34,6 +34,9 @@
 <a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
 <a href = "mailto:thassiogomes44@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://br.linkedin.com/in/thassio-silva-56194620b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  
+  
+  ![snake animation](https://github.com/Thxssio/Thxssio/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
