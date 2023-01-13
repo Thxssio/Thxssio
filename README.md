@@ -24,7 +24,7 @@
 ### Tecnology
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-< img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40" /> 
+<img src="	https://camo.githubusercontent.com/d7703118b3b0585…76f732f6340302e302e332f635f323536783235362e706e67" width="40" height="40" /> 
 <!-- -->
 
 ### Contatos:
