@@ -32,6 +32,7 @@
     <a href="https://www.python.org/" target="_blank"><img align="center" alt="grs-Py" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <a href="https://www.arduino.cc/" target="_blank"><img align="center" alt="grs-ad" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
     <a href="https://www.beecrowd.com.br/judge/pt/profile/559478" target="_blank"><img align="center" alt="grs-bee" height="40" width="50"  src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" target="_blank"></a>
+    <a href="https://www.ros.org/imgs/logo-white.png" target="_blank"><img align="center" alt="grs-bee" height="30" width="30"  src="https://www.ros.org/imgs/logo-white.png" target="_blank"></a>
       </div>
     
 
@@ -40,6 +41,7 @@
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" width="65" height="40"/>
 </div>
   
   
