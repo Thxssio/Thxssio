@@ -1,15 +1,15 @@
 
 
-## **Olá, Bem vindo ao meu perfil no GitHub, aqui você encontra todos os meus codigos desenvolvidos durante a minha jornada pelo git.** 👋
+## **Hello, Welcome to my profile on GitHub, here you can find all my codes developed during my journey through git.** 👋
 
 
-- 🔭 Atualmente estou trabalhando em C# | PY | C++ | JAVA | ROS | Flutter
-- 🌱 Atualmente estou aprendendo Engenharia de Automação
-- 👯 Procuro colaborar em inovação tecnológica
+- 🔭 I'm currently working on C# | PY | C++ | JAVA | ROS | flutter
+- 🌱 I am currently learning Automation Engineering
+- 👯 I seek to collaborate in technological innovation
 <!--
-- 🤔 Estou procurando ajuda com Ciência, Tecnologia e inovação 
-- 💬 Pensar libera a imaginação.  -->
-- 📫 Ta me procurando? Me encontre: Instagram::Twitter: @thxssio | Email: thassiogomes44@gmail.com
+- 🤔 I'm looking for help with Science, Technology and Innovation
+- 💬 Thinking frees the imagination. -->
+- 📫 Are you looking for me? Find me: Instagram::Twitter: @thxssio | Email: thassiogomes44@gmail.com
 
 
 ##
@@ -47,7 +47,7 @@
   
 
 <!-- -->
- trophy Awards
+
 
       
  ##
