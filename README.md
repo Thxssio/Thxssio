@@ -52,7 +52,7 @@
   
 ### 📚 Areas of interest
 
-- full-stack
+- full-stacks
 - Cryptography
  
 
