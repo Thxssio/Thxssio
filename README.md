@@ -1,5 +1,5 @@
 <h1 align="center">
-<br>Thássio Gomes Silva, 19 Years. 🧑
+<br>Hey there, I'm Thássio. 🧑
 </h1>
 
 <p align="center"> 
