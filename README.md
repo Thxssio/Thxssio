@@ -32,6 +32,7 @@
 <h1 align="center">  
   
    <div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/24/LEGO_logo.svg" width="40" height="auto"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="auto"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="auto"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="auto"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="auto"/>
