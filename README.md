@@ -11,7 +11,7 @@
 - 🔭 I'm currently working on C# | PY | C++ | JAVA | ROS | Flutter | ROS2
 - 🌱 I am currently learning Computer Engineering
 - 👯 I seek to collaborate in technological innovation
-- 📫 Are you looking for me? Find me: Instagram/Twitter: @thxssio | Email: thassiogomes44@gmail.com
+- 📫 Are you looking for me? Find me: Instagram/Twitter: @thxssio | Email: thxssio@gmail.com
 
 <!--
 - 🤔 I'm looking for help with Science, Technology and Innovation
