@@ -54,9 +54,7 @@
 ### 📚 Areas of interest
 
 - full-stacks
-      
-- Cryptography
- 
+     
 
 <!-- -->
 ### 🏆 Awards
