@@ -50,7 +50,7 @@
     <a href="https://www.arduino.cc/" target="_blank"><img align="center" alt="grs-ad" height="30" width="auto"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
     <a href="https://www.beecrowd.com.br/judge/pt/profile/559478" target="_blank"><img align="center" alt="grs-bee" height="40" width="auto"  src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" target="_blank"></a>
     <a href="https://www.ros.org/imgs/logo-white.png" target="_blank"><img align="center" alt="grs-bee" height="25" width="auto"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png" target="_blank"></a>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-pO03cv6xbyh737GSO-DDVWQKRj8pQw2JQg&usqp=CAU"  width="40" height="auto"/>
+    <img src="https://i0.wp.com/www.robo-dyne.com/wp-content/uploads/2021/10/Turtlebot3_logo.png?resize=883%2C875&ssl=1"  width="40" height="auto"/>
       </div>
       </h1>
   
