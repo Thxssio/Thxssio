@@ -2,7 +2,9 @@
 <br>Thássio Gomes Silva, 19 Years. 🧑
 </h1>
 
-<p align="center"> Welcome to my profile on GitHub, here you can find all my codes developed during my journey through git. 👋</p>
+<p align="center"> 
+  Welcome to my profile on GitHub, here you can find all my codes developed during my journey through git. 👋
+</p>
 
 ##
 
@@ -53,19 +55,26 @@
 ### 📚 Areas of interest
 
 - full-stacks
+      
 - Cryptography
  
 
 <!-- -->
 ### 🏆 Awards
 
-- 🥇 Fira World Cup - 2017, 2018, 2019, 2020,  🇧🇷🇨🇳🇰🇷 - U19;
-- 🥇 Oliempiada Brasileira de Robotica - 2018 - 2019 - U19;
-- 🥇 Torneio juvenil de robotica - 2018 - 2019 - U19;
-- 🥇 International tournament Robotics - 2019 - U19;
-- 🥇 Roboparty, Portugal, 2020;
-- 🥇 Competição Brasileira de Robótica - São Paulo, Brasil, 2022 - Liga Universitaria;
-- 🥇 OBMEP, OBF e OBA - IEMA;
+> 🥇 Fira World Cup - 2017, 2018, 2019, 2020,  🇧🇷🇨🇳🇰🇷 - U19;
+      
+> 🥇 Oliempiada Brasileira de Robotica - 2018 - 2019 - U19;
+      
+> 🥇 Torneio juvenil de robotica - 2018 - 2019 - U19;
+      
+> 🥇 International tournament Robotics - 2019 - U19;
+      
+> 🥇 Roboparty, Portugal, 2020;
+      
+> 🥇 Competição Brasileira de Robótica - São Paulo, Brasil, 2022 - Liga Universitaria;
+      
+> 🥇 OBMEP, OBF e OBA - IEMA;
 
 
       
