@@ -59,20 +59,21 @@
 <!-- -->
 ### 🏆 Awards
 
-> 🥇 Fira World Cup - 2017, 2018, 2019, 2020,  🇧🇷🇨🇳🇰🇷 - U19;
+> 🥇 Fira World Cup ;
       
-> 🥇 Oliempiada Brasileira de Robotica - 2018 - 2019 - U19;
+> 🥇 Oliempiada Brasileira de Robotica ;
       
-> 🥇 Torneio juvenil de robotica - 2018 - 2019 - U19;
+> 🥇 Torneio juvenil de robotica ;
       
-> 🥇 International tournament Robotics - 2019 - U19;
+> 🥇 International tournament Robotics ;
       
-> 🥇 Roboparty, Portugal, 2020;
+> 🥇 Roboparty, Portugal ;
       
-> 🥇 Competição Brasileira de Robótica - São Paulo, Brasil, 2022 - Liga Universitaria;
+> 🥇 Competição Brasileira de Robótica - São Paulo, Brasil - Liga Universitaria ;
       
-> 🥇 OBMEP, OBF e OBA - IEMA;
+> 🥇 OBMEP, OBF e OBA - IEMA ;
 
+> 🥇 First lego league - Técnico ;
 
       
  ##
