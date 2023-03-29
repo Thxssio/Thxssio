@@ -6,9 +6,7 @@
   Welcome to my profile on GitHub, here you can find all my codes developed during my journey through git. 👋
 </p>
 
-##
-
-🙋🏻 About me
+### 🙋🏻 About me
 
 - 🔭 I'm currently working on C# | PY | C++ | JAVA | ROS | Flutter
 - 🌱 I am currently learning Computer Engineering
