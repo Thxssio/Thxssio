@@ -9,7 +9,7 @@
 🙋🏻 About me
 
 - 🔭 I'm currently working on C# | PY | C++ | JAVA | ROS | Flutter
-- 🌱 I am currently learning Automation Engineering
+- 🌱 I am currently learning Computer Engineering
 - 👯 I seek to collaborate in technological innovation
 - 📫 Are you looking for me? Find me: Instagram/Twitter: @thxssio | Email: thassiogomes44@gmail.com
 
