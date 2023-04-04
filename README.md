@@ -69,6 +69,7 @@
 * `Intermediary knowledge of Python and C++;`
 * `3D modelling, Solidworks and Onshape;`
 * `Intermediary level of English;`
+* `Drone Pilot License;`      
      
 
 <!-- -->
@@ -91,16 +92,18 @@
 ` 🥇 First lego league - Técnico ;`
 
       
- ##
+ ## 
 <h1 align="center">
 <div>
 <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/thxssio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<!-- <a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
+<!-- 
+<a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
 <a href = "mailto:thxssio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <!--<a href="https://br.linkedin.com/in/thassio-silva-56194620b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </h1>
 
 -->
+  
  
   
   ##
