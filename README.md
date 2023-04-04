@@ -65,10 +65,10 @@
 
 ### :unlock: Skills
 
-* Projects with Arduino, ESP32, Raspberry Pi and others;
-* Intermediary knowledge of Python and C++;
-* 3D modelling, Solidworks and Onshape;
-* Intermediary level of English;
+* `Projects with Arduino, ESP32, Raspberry Pi and others;`
+* `Intermediary knowledge of Python and C++;`
+* `3D modelling, Solidworks and Onshape;`
+* `Intermediary level of English;`
      
 
 <!-- -->
