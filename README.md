@@ -54,29 +54,41 @@
       </div>
       </h1>
   
-### 📚 Areas of interest
+### :book: Areas of interest
 
-- Robotics and artificial intelligence
+* `Robotics`
+* `ROS and ROS2`
+* `3D printing`
+* `Gazebo`
+* `Python`
+* `Microcontrollers`
+
+### :unlock: Skills
+
+* Projects with Arduino, ESP32, Raspberry Pi and others;
+* Intermediary knowledge of Python and C++;
+* 3D modelling, Solidworks and Onshape;
+* Intermediary level of English;
      
 
 <!-- -->
 ### 🏆 Awards
 
-> 🥇 Fira World Cup ;
+` 🥇 Fira World Cup ;`
       
-> 🥇 Oliempiada Brasileira de Robotica ;
+` 🥇 Oliempiada Brasileira de Robotica ;`
       
-> 🥇 Torneio juvenil de robotica ;
+` 🥇 Torneio juvenil de robotica ;`
       
-> 🥇 International tournament Robotics ;
+` 🥇 International tournament Robotics ;`
       
-> 🥇 Roboparty, Portugal ;
+` 🥇 Roboparty, Portugal ;`
       
-> 🥇 Competição Brasileira de Robótica - São Paulo, Brasil - Liga Universitaria ;
+` 🥇 Competição Brasileira de Robótica - São Paulo, Brasil - Liga Universitaria ;`
       
-> 🥇 OBMEP, OBF e OBA - IEMA ;
+` 🥇 OBMEP, OBF e OBA - IEMA ;`
 
-> 🥇 First lego league - Técnico ;
+` 🥇 First lego league - Técnico ;`
 
       
  ##
