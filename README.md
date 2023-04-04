@@ -56,7 +56,7 @@
   
 ### 📚 Areas of interest
 
-- full-stacks
+- Robotics and artificial intelligence
      
 
 <!-- -->
