@@ -8,7 +8,7 @@
 
 ### 🙋🏻 About me
 
-- 🔭 I'm currently working on C# | PY | C++ | JAVA | ROS | Flutter | ROS2
+- 🔭 I'm currently working on PY | C++ | JAVA | ROS | Flutter | ROS2
 - 🌱 I am currently learning Computer Engineering
 - 👯 I seek to collaborate in technological innovation
 - 📫 Are you looking for me? Find me: Instagram/Twitter: @thxssio | Email: thxssio@gmail.com
@@ -43,8 +43,8 @@
 </div>
   
   <div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="thxssio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="thxssio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)" target="_blank"><img align="center" alt="grs-C#" height="33" width="auto"  src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c_256x256.png">
     <a href="https://pt.wikipedia.org/wiki/C%2B%2B" target="_blank"><img align="center" alt="grs-C+" height="30" width="auto"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <a href="https://www.python.org/" target="_blank"><img align="center" alt="grs-Py" height="30" width="auto"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
