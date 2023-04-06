@@ -51,7 +51,7 @@
     <a href="https://www.arduino.cc/" target="_blank"><img align="center" alt="grs-ad" height="30" width="auto"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
     <a href="https://www.beecrowd.com.br/judge/pt/profile/559478" target="_blank"><img align="center" alt="grs-bee" height="40" width="auto"  src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036" target="_blank"></a>
     <a href="https://www.ros.org/imgs/logo-white.png" target="_blank"><img align="center" alt="grs-bee" height="25" width="auto"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png" target="_blank"></a>
-    <img src="https://i0.wp.com/www.robo-dyne.com/wp-content/uploads/2021/10/Turtlebot3_logo.png?resize=883%2C875&ssl=1"  width="40" height="auto"/>
+    <img src="https://raw.githubusercontent.com/ROBOTIS-GIT/emanual/master/assets/images/platform/turtlebot3/logo_turtlebot3.png"  width="auto" height="40"/>
     <img align="center" alt="thxssio-GitHub" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/github/github-original-wordmark.svg">
 <img align="center" alt="thxssio-Ubuntu" height="auto" width="30" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
 <img align="center" alt="thxssio-Trello" height="auto" width="30" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
