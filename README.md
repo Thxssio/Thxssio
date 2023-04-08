@@ -1,5 +1,5 @@
 <h1 align="center">
-<br>Hey there, I'm Thássio. 🧑
+<br>Hey there, I'm Thássio. 
 </h1>
 
 <p align="center"> 
