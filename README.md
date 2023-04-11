@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=99EE99&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,I'm+Thássio;I'm+19+years+old;Computer+engineering+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=99EE99&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,I'm+Thássio;I'm+19+years+old;Computer+engineering+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <!--
 <h1 align="center">
 <br>Hey there, I'm Thássio. 
@@ -27,7 +27,7 @@
 
 <div align="center">
   <a href="https://github.com/thxssio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thxssio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thxssio&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thxssio&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thxssio&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 
@@ -36,6 +36,14 @@
   
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thxssio&theme=gotham)
+
+##
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thxssio&theme=gotham&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+##
   
 <h1 align="center">  
   
@@ -126,4 +134,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=99EE99&height=120&section=footer"/>
