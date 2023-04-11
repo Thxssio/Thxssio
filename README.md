@@ -94,7 +94,7 @@
       
 ` 🥇 OBMEP, OBF e OBA - IEMA ;`
 
-` 🥇 First lego league - Técnico ;`
+` 🥇 First lego league - FLL ;`
 
       
  ## 
