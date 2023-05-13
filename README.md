@@ -102,7 +102,7 @@
 ### 🏆 Awards
       
 <h1 align="center">
-  Iight-time Robotics champion 🥇
+  Robotics champion 🥇
  </h1>
       
 ` 🥇 Fira World Cup ;`
