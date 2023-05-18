@@ -47,10 +47,11 @@
 </p>
 
 ##
-  
+ 
 <h1 align="center">  
   
    <div>
+      <img src="https://github.com/Thxssio/Thxssio/assets/95764952/2ca2ea42-84b2-4a3f-874c-ba6e6f039a14" width="100" height="auto"/>
       <img src="https://prostomac.com/wp-content/uploads/2013/01/icon3.jpg" width="40" height="auto"/> 
    <img src="https://static.wixstatic.com/media/3a1650_c3aab5a6953d425d97645c08ff4befea~mv2.png/v1/fill/w_240,h_268,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/MicrosoftTeams-image%20(4).png" width="40" height="auto"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/LEGO_logo.svg" width="40" height="auto"/> 
