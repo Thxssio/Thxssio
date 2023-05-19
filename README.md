@@ -6,10 +6,37 @@
 <br>Hey there, I'm Thássio. 
 </h1>
 -->
+<p align="center">
+  <a href="https://github.com/thxssio">
+    <img src="https://komarev.com/ghpvc/?username=thxssio&color=blue&style=flat)" />
+  </a>
+</p>
+
 ##
+<p align="center">
+    <b>Welcome to my profile on GitHub, here you can find all my codes developed during my journey through git. 👋</b><br><br>
+    <i>
+        I'm Thássio.<br>
+        Currently learning to walk in ML/DL.<br>
+        Open to collaborating on interesting and innovative projects.<br>
+    </i><br>
+    <a href="">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter" alt="twitter">
+    </a>
+
+
+</p>
+
+<!--
 <p align="center"> 
   Welcome to my profile on GitHub, here you can find all my codes developed during my journey through git. 👋
 </p>
+
+
+-->
 
 ### 🙋🏻 About me?
 
@@ -21,6 +48,28 @@
 <!--
 - 🤔 I'm looking for help with Science, Technology and Innovation
 - 💬 Thinking frees the imagination. -->
+
+
+
+<details>
+<p align="center">
+  <a href="https://github.com/thxssio">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thxssio&theme=transparent" />
+  </a>
+  <a href="https://github.com/thxssio">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thxssio&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/thxssio">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thxssio&theme=transparent" />
+  </a>
+  <a href="https://github.com/thxssio">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thxssio&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+
+
+
 
 
 ##
@@ -78,7 +127,12 @@
 <img align="center" alt="thxssio-vscode" height="auto" width="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
       </div>
       </h1>
-  
+      
+### OS
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/thxssio)
+[![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=Windows)](https://github.com/thxssio)  
+      
+      
 ### :book: Areas of interest
 
 * `Robotics`
@@ -97,9 +151,7 @@
 * `Drone Pilot License;`      
      
 
-<!-- -
 
--->
 ### 🏆 Awards
       
 <h1 align="center">
@@ -145,3 +197,6 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=99EE99&height=120&section=footer"/>
+  
+  
+  
