@@ -184,11 +184,11 @@
 
 </div>
   
-  
+<!--
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{thxssio}/count.svg" /></p> 
-<br></div>
+<br></div>-->
   
   
 ![snake animation](https://github.com/Thxssio/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg)
