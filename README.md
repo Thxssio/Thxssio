@@ -87,7 +87,7 @@
 ##
   
 
-[![Github](https://chartgithub.vercel.app/graph?username=thxssio&theme=dracula)](https://github.com/thxssio/ChartGithub)
+[![Github](https://github-readme-activity-graph.vercel.app/graph?username=thxssio&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ##
 
