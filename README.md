@@ -57,10 +57,10 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thxssio&theme=transparent" />
   </a>
   <a href="https://github.com/thxssio">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thxssio&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thxssio&hide_border=true&card_width=338&theme=gotham" />
   </a>
   <a href="https://github.com/thxssio">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thxssio&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thxssio&theme=gotham" />
   </a>
   <a href="https://github.com/thxssio">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thxssio&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=transparent" />
