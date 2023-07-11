@@ -68,6 +68,18 @@
 </p>
 </details>
 
+<p align="center"> MYSetup
+<details>
+  <li> OneDarkPro - VsCode Theme</li>
+  <li>Windows 10</li>
+  <li> Ubuntu 20.04 </li>
+  <li>Wordpress</li>
+  <li>KaliLinux</li>
+  <li><a href="https://github.com/Thxssio/ThemeGrub">Theme Grub</a></li>
+</details>
+</p>
+
+
 
 
 
