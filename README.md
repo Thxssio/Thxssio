@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008bsize=35&center=true&vCenter=true&width=1000&lines=Hey+there,I'm+Thássio;I'm+20+years+old;Computer+engineering+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <!--
@@ -220,7 +220,7 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=120&section=footer"/>
   
   
   
