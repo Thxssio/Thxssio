@@ -215,7 +215,7 @@
 <br></div>-->
   
   
-![snake animation](https://github.com/Thxssio/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Thxssio/Thxssio/blob/main/github-contribution-grid-snake.svg)
 
 
 
