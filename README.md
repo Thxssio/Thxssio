@@ -214,8 +214,13 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{thxssio}/count.svg" /></p> 
 <br></div>-->
   
-  
-![snake animation](https://github.com/Thxssio/Thxssio/blob/main/github-contribution-grid-snake.svg)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
+  <img  alt="github contribution grid snake animation" src="github-contribution-grid-snake.svg">
+</picture>
 
 
 
