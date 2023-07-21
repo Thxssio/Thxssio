@@ -85,6 +85,7 @@
   <dt> Ubuntu 20.04 </dt>
   <dt>Wordpress</dt>
   <dt>KaliLinux</dt>
+  <dt>Figma</dt>
   <dt><a href="https://github.com/Thxssio/ThemeGrub">Theme Grub</a></dt>
   </dl>
 </details>
