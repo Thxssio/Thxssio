@@ -84,6 +84,7 @@
   <dt>Windows 10</dt>
   <dt> Ubuntu 20.04 </dt>
   <dt>Wordpress</dt>
+    <dd><li>Elementor</li></dd>
   <dt>KaliLinux</dt>
   <dt>Figma</dt>
    <dd><li>TeleportHQ</li></dd>
