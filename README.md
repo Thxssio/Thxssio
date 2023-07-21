@@ -73,7 +73,18 @@
 
 <p align="center"> MYSetup
 <details>
-  <li> OneDarkPro - VsCode Theme</li>
+  <li>
+    VSCODE<br>
+      <ol type="I">
+        <li>OneDarkPro - VsCode Theme</li>
+        <li>Bracket Pair Colorized</li>
+        <li>Code Snap</li>
+        <li>Live Server</li>
+        <li>Prettier</li>
+        <li>vscode-icons</li>
+        
+      </ol>
+  </li>
   <li>Windows 10</li>
   <li> Ubuntu 20.04 </li>
   <li>Wordpress</li>
