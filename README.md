@@ -86,7 +86,7 @@
   <dt>Wordpress</dt>
   <dt>KaliLinux</dt>
   <dt>Figma</dt>
-   <dd>TeleportHQ</dd>
+   <dd><li>TeleportHQ</li></dd>
   <dt><a href="https://github.com/Thxssio/ThemeGrub">Theme Grub</a></dt>
   </dl>
 </details>
