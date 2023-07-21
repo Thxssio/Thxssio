@@ -85,6 +85,7 @@
   <dt> Ubuntu 20.04 </dt>
   <dt>Wordpress</dt>
     <dd><li>Elementor</li></dd>
+    <dd>https://icons.getbootstrap.com/</dd>
   <dt>KaliLinux</dt>
   <dt>Figma</dt>
    <dd><li>TeleportHQ</li></dd>
