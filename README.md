@@ -81,8 +81,7 @@
         <li>Code Snap</li>
         <li>Live Server</li>
         <li>Prettier</li>
-        <li>vscode-icons</li>
-        
+        <li>vscode-icons</li> 
       </ol>
   </li>
   <li>Windows 10</li>
