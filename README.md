@@ -83,9 +83,10 @@
     <dd><li>vscode-icons</li></dd>
   <dt>Windows 10</dt>
   <dt> Ubuntu 20.04 </dt>
+    <dd><li>Glx-dock</li></dd>
   <dt>Wordpress</dt>
     <dd><li>Elementor</li></dd>
-    <dd>https://icons.getbootstrap.com/</dd>
+    <dd><a href"https://icons.getbootstrap.com">Icons</a></dd>
   <dt>KaliLinux</dt>
   <dt>Figma</dt>
    <dd><li>TeleportHQ</li></dd>
