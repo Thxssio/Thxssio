@@ -83,7 +83,17 @@
     <dd><li>vscode-icons</li></dd>
   <dt>Windows 10</dt>
   <dt> Ubuntu 20.04 </dt>
-    <dd><li>Glx-dock</li></dd>
+    <dd><li>gnome shell integration<li/>
+<li>- Enable User Themes</li>
+<li>- sudo apt install gnome-tweaks
+enable shell themes</li>
+
+
+<li>enable and install dash to dock</li>
+<li>enable and install frippery applications menu</li>
+<li>enable and install frippery moveclocks</li>
+<li>enable and install frippery shut down menu</li></dd>
+
   <dt>Wordpress</dt>
     <dd><li>Elementor</li></dd>
     <dd><a href"https://icons.getbootstrap.com">Icons</a></dd>
