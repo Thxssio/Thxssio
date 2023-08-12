@@ -83,10 +83,11 @@
     <dd><li>vscode-icons</li></dd>
   <dt>Windows 10</dt>
   <dt> Ubuntu 20.04 </dt>
-    <dd><li>gnome shell integration<li/>
-<li>- Enable User Themes</li>
-<li>- sudo apt install gnome-tweaks
-enable shell themes</li>
+    <dd>
+<li>gnome shell integration<li/>
+<li> Enable User Themes</li>
+<li> sudo apt install gnome-tweaks</li>
+<li>enable shell themes</li>
 
 
 <li>enable and install dash to dock</li>
