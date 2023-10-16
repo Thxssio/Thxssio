@@ -84,6 +84,7 @@
   <dt>Windows 10</dt>
   <dt>Ubuntu 20.04 </dt>
     <dd>
+<li> sudo apt-get install chrome-gnome-shell</li>
 <li> gnome shell integration</li>
 <li> Enable User Themes</li>
 <li> sudo apt install gnome-tweaks</li>
