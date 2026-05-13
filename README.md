@@ -43,7 +43,7 @@ I’m **Thássio Silva**, a **Computer Engineering** student focused on **roboti
 
 - **SuperVIO (ROS2):** VO/SLAM, sensor fusion, and visualization  
 - **VSSS (Very Small Size Soccer):** motion control (PWM/H-bridge TB6612FNG), vision, strategy  
-- **IEADSM portal:** Next.js 15 + Firebase/Firestore (CPF-based signup, family linking & auto-merge with Cloud Functions, AppCheck, rules)  
+- **Web Dev:** Next.js 15 + Firebase/Firestore (CPF-based signup, family linking & auto-merge with Cloud Functions, AppCheck, rules)  
 - **GeoVPR/GeoMap:** low-altitude capture, visual matching, Earth Engine analysis  
 - **LoRaWAN + SCHC:** RFC-based studies and proof-of-concepts  
 
